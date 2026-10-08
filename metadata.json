@@ -1,0 +1,6 @@
+{
+  "name": "Aether2D - HD-2D Game Asset Studio",
+  "description": "AI Text-to-SVG and Text-to-Image-to-SVG generator creating production-ready HD-2D pixel and isometric game assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
